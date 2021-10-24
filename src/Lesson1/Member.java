@@ -1,3 +1,5 @@
+package Lesson1;
+
 public class Member {
     String name;
     int jumpHeight;

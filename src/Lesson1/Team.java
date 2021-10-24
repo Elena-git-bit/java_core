@@ -1,5 +1,4 @@
-import java.sql.Array;
-import java.util.Arrays;
+package Lesson1;
 
 public class Team {
     String name;
