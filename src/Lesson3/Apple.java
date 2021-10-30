@@ -1,6 +1,5 @@
 package Lesson3;
 
-import org.w3c.dom.ls.LSOutput;
 
 public class Apple extends Fruit{
     public Apple() {

@@ -24,9 +24,6 @@ public class Main {
         box.addBoxToContainer(apple2);
         box2.addBoxToContainer(orange1);
 
-        System.out.println(box);
-
-
 
 
     }
