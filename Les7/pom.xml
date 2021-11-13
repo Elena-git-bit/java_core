@@ -5,12 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>Les7</artifactId>
+    <artifactId>TestJDK17</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <maven.compiler.sourse>15</maven.compiler.sourse>
-        <maven.compiler.target>15</maven.compiler.target>
+        <maven.compiler.sourse>17</maven.compiler.sourse>
+        <maven.compiler.target>17</maven.compiler.target>
+
 
     </properties>
 
@@ -28,6 +29,7 @@
             <artifactId>okhttp</artifactId>
             <version>4.9.2</version>
         </dependency>
+
 
     </dependencies>
 
